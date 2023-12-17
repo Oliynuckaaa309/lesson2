@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-wrapper{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(247, 237, 237);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-header-title{
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
